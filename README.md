@@ -1,7 +1,3 @@
-# Project-Shopify-CustomCostume
-
-
-
 # [Custom Costume](https://github.com/goncaloperes/Project-Shopify-CustomCostume)
 
 <table>
